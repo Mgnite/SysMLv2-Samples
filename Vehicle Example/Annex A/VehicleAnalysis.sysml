@@ -1,4 +1,6 @@
 package VehicleAnalysis {
+    import VehicleDefinitions::*;
+    
     import RiskMetadata::*;
     import RiskLevelEnum::*;
     // recursive import uses double asterisk **
