@@ -1,5 +1,5 @@
 package VehicleSafetyandSecurityGroups {
-    import VehiclDefinitions::MetadataDefinitions::*;
+    import VehicleDefinitions::MetadataDefinitions::*;
     import VehicleConfigurations::VehicleConfiguration_b::PartsTree::*;
     package SafetyGroup {
         /* Parts that contribute to safety. */
